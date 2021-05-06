@@ -1,0 +1,25 @@
+public class Firstlearning {
+	public static void main(String args[])
+	{
+		
+	int a=12; //4bytes= 32bits
+	short s=12; //2bytes= 16bits
+	byte b=12;
+	long l=10000000l;
+	float f=5.5f;
+	f=12.7f;
+	double d=7.3;
+	
+	char c='c';
+	c=72; //72 is the asci value for a character which we will get in output
+	      //American standard code for information interchange
+	
+	
+	System.out.println(c);
+	
+	double d1=7; //implicit conversion 
+	System.out.println(d1);
+		}
+}
+
+Just tried different variations like how the datatypes and variable work and all that stuff
